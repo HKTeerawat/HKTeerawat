@@ -11,11 +11,19 @@ I am a passionate technology enthusiast currently focusing on **Cyber Security**
 📫 **Connect with me:** 
 [LinkedIn](https://linkedin.com) | [Medium/Blog](https://medium.com)
 
+
 ### 🛠️ Skills & Tools
 ![Linux](https://shields.io) ![Python](https://shields.io) ![Bash](https://shields.io) ![Git](https://shields.io)
 
 ### 🛡️ Cyber Security Platforms
 ![TryHackMe](https://shields.io)
+
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="vercel.app" alt="Top Langs" />
+</p>
 
 
 
