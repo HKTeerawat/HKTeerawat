@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Teerawat! 
 
-<!--
-**HKTeerawat/HKTeerawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me:**
+I am a passionate technology enthusiast currently focusing on **Cyber Security** and **Security Engineering**. I love learning how systems work, how they can be compromised, and most importantly, how to defend and harden them.
 
-Here are some ideas to get you started:
+🛡️ **What I'm doing right now:**
+- 📖 Studying Cyber Security fundamentals, Linux Administration, and Network Security.
+- 💻 Practicing hands-on labs on platforms like **TryHackMe**.
+- 🛠️ Building security automation scripts and exploring Infrastructure as Code (IaC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:** 
+[LinkedIn](https://linkedin.com) | [Medium/Blog](https://medium.com)
+
