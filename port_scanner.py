@@ -5,10 +5,10 @@ from datetime import datetime
 target_host = input("Enter target host to scan (e.g., google.com or 127.0.0.1): ")
 
 try:
-  target_host = socket.gethostbyname(target_input)
+  target_host = socket.gethostbyname(target_host)
 except socket.gaierror:
   print("\n[-] Invalid hostname. Could not resolve target.")
-    sys.exit()
+  sys.exit()
 
 print("-" * 50)
 print(f"Scanning target: {target_host}")
