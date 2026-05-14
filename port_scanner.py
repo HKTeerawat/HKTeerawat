@@ -2,7 +2,13 @@ import socket
 import sys
 from datetime import datetime
 
-target_host = "127.0.0.1"
+target_host = input("Enter target host to scan (e.g., google.com or 127.0.0.1): ")
+
+try:
+  target_host = socket.gethostbyname(target_input)
+except socket.gaierror:
+  print("\n[-] Invalid hostname. Could not resolve target.")
+    sys.exit()
 
 print("-" * 50)
 print(f"Scanning target: {target_host}")
@@ -25,7 +31,7 @@ try:
       
     s.close()
 
-except KeyboardInterrupt:
+except KeyboardInterrupt:  
     print("\nExiting script.")
     sys.exit()
 
