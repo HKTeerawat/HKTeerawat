@@ -12,10 +12,11 @@ I am a passionate technology enthusiast currently focusing on **Cyber Security**
 [LinkedIn](https://linkedin.com) | [Medium/Blog](https://medium.com)
 
 ### 🛠️ Skills & Tools
-<img src="shields.io" alt="Linux" /> <img src="shields.io" alt="Python" /> <img src="shields.io" alt="Bash" />
+![Linux](https://shields.io) ![Python](https://shields.io) ![Bash](https://shields.io) ![Git](https://shields.io)
 
 ### 🛡️ Cyber Security Platforms
-<img src="shields.io" alt="TryHackMe" />
+![TryHackMe](https://shields.io)
+
 
 
 
