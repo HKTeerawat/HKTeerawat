@@ -11,11 +11,15 @@ I am a passionate technology enthusiast currently focusing on **Cyber Security**
 📫 **Connect with me:** 
 [LinkedIn](https://linkedin.com) | [Medium/Blog](https://medium.com)
 
-### 🛠️ Skills & Tools
-<img src="shields.io" alt="Linux" /> <img src="shields.io" alt="Python" /> <img src="shields.io" alt="Bash" /> <img src="shields.io" alt="Git" />
+### 🛠️ Skills & Technologies
 
-### 🛡️ Cyber Security Platforms
-<img src="shields.io" alt="TryHackMe" />
+| Category | Tools & Platforms |
+| :--- | :--- |
+| **Operating Systems** | 🐧 Linux (Ubuntu, Debian) |
+| **Programming / Scripting** | 🐍 Python 3 \| 🐚 Bash Scripting |
+| **Version Control** | 🐙 GitHub \| 🗄️ Git Version Control |
+| **Cyber Security Training** | 🛡️ TryHackMe Labs (Hands-on Practice) |
+
 
 
 
